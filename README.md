@@ -1,4 +1,4 @@
-- 👋 Hi, I’m uwnai Gabriel
+- 👋 Hi, I’m uwani Gabriel
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning web developent using HTML, CSS and JAVASCRIPT 
 - 💞️ I’m looking to collaborate on web development projects
